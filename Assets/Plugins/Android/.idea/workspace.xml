@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8995dbc3-e3cd-4c0d-ab96-e30ab9f2c69b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../GeneratedLocalRepo.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../GeneratedLocalRepo.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GeneratedLocalRepo/Firebase.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../GeneratedLocalRepo/Firebase.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GeneratedLocalRepo/Firebase/m2repository.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../GeneratedLocalRepo/Firebase/m2repository.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GeneratedLocalRepo/Firebase/m2repository/com.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../GeneratedLocalRepo/Firebase/m2repository/com.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GeneratedLocalRepo/Firebase/m2repository/com/google.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../GeneratedLocalRepo/Firebase/m2repository/com/google.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GeneratedLocalRepo/Firebase/m2repository/com/google/firebase.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../GeneratedLocalRepo/Firebase/m2repository/com/google/firebase.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/7.1.0.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/7.1.0.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/7.1.0/firebase-analytics-unity-7.1.0.aar.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/7.1.0/firebase-analytics-unity-7.1.0.aar.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/7.1.0/firebase-analytics-unity-7.1.0.pom.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/7.1.0/firebase-analytics-unity-7.1.0.pom.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-app-unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-app-unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-app-unity/7.1.0.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-app-unity/7.1.0.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-app-unity/7.1.0/firebase-app-unity-7.1.0.aar.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-app-unity/7.1.0/firebase-app-unity-7.1.0.aar.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-app-unity/7.1.0/firebase-app-unity-7.1.0.pom.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-app-unity/7.1.0/firebase-app-unity-7.1.0.pom.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.activity.activity-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.annotation.annotation-1.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.annotation.annotation-1.1.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.appcompat.appcompat-1.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.appcompat.appcompat-resources-1.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.arch.core.core-common-2.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.arch.core.core-common-2.1.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.arch.core.core-runtime-2.0.1.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.asynclayoutinflater.asynclayoutinflater-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.browser.browser-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.cardview.cardview-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.collection.collection-1.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.collection.collection-1.1.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.coordinatorlayout.coordinatorlayout-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.core.core-1.3.2.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.core.core-ktx-1.3.2.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.cursoradapter.cursoradapter-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.customview.customview-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.documentfile.documentfile-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.drawerlayout.drawerlayout-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.fragment.fragment-1.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.interpolator.interpolator-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.legacy.legacy-support-core-ui-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.legacy.legacy-support-core-utils-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.legacy.legacy-support-v4-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.lifecycle.lifecycle-common-2.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.lifecycle.lifecycle-common-2.1.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.lifecycle.lifecycle-livedata-2.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.lifecycle.lifecycle-livedata-core-2.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.lifecycle.lifecycle-runtime-2.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.lifecycle.lifecycle-service-2.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.lifecycle.lifecycle-viewmodel-2.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.loader.loader-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.localbroadcastmanager.localbroadcastmanager-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.media.media-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.print.print-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.room.room-common-2.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.room.room-common-2.1.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.room.room-runtime-2.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.savedstate.savedstate-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.slidingpanelayout.slidingpanelayout-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.sqlite.sqlite-2.0.1.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.sqlite.sqlite-framework-2.0.1.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.swiperefreshlayout.swiperefreshlayout-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.vectordrawable.vectordrawable-1.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.vectordrawable.vectordrawable-animated-1.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.versionedparcelable.versionedparcelable-1.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.viewpager.viewpager-1.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidx.work.work-runtime-2.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.android.installreferrer.installreferrer-1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.facebook.android.facebook-applinks-9.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.facebook.android.facebook-common-9.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.facebook.android.facebook-core-9.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.facebook.android.facebook-gamingservices-9.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.facebook.android.facebook-login-9.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.facebook.android.facebook-share-9.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.android.gms.play-services-ads-19.5.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.android.gms.play-services-ads-base-19.5.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.android.gms.play-services-ads-identifier-17.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.android.gms.play-services-ads-lite-19.5.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.android.gms.play-services-base-17.6.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.android.gms.play-services-basement-17.6.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.android.gms.play-services-gass-19.5.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.android.gms.play-services-measurement-18.0.2.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.android.gms.play-services-measurement-api-18.0.2.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.android.gms.play-services-measurement-base-18.0.2.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.android.gms.play-services-measurement-impl-18.0.2.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.android.gms.play-services-measurement-sdk-18.0.2.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.android.gms.play-services-measurement-sdk-api-18.0.2.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.android.gms.play-services-stats-17.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.android.gms.play-services-tasks-17.2.1.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.firebase.firebase-analytics-18.0.2.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.firebase.firebase-analytics-unity-7.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.firebase.firebase-annotations-16.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.firebase.firebase-annotations-16.0.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.firebase.firebase-app-unity-7.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.firebase.firebase-common-19.5.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.firebase.firebase-components-16.1.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.firebase.firebase-installations-16.3.2.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.firebase.firebase-installations-interop-16.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.firebase.firebase-measurement-connector-18.0.0.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.guava.listenablefuture-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.guava.listenablefuture-1.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.zxing.core-3.3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.zxing.core-3.3.3.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.parse.bolts.bolts-android-1.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.parse.bolts.bolts-android-1.4.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.parse.bolts.bolts-applinks-1.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.parse.bolts.bolts-applinks-1.4.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.parse.bolts.bolts-tasks-1.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.parse.bolts.bolts-tasks-1.4.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.jetbrains.annotations-13.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.jetbrains.annotations-13.0.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.jetbrains.kotlin.kotlin-android-extensions-runtime-1.4.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.jetbrains.kotlin.kotlin-android-extensions-runtime-1.4.10.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.jetbrains.kotlin.kotlin-stdlib-1.4.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.jetbrains.kotlin.kotlin-stdlib-1.4.10.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.jetbrains.kotlin.kotlin-stdlib-common-1.4.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.jetbrains.kotlin.kotlin-stdlib-common-1.4.10.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.jetbrains.kotlin.kotlin-stdlib-jdk7-1.4.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.jetbrains.kotlin.kotlin-stdlib-jdk7-1.4.10.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProjectSettings/GvhProjectSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProjectSettings/GvhProjectSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProjectSettings/ProjectVersion.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1qqMUeHHzqArdMWRpEyNX4YSUMu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8995dbc3-e3cd-4c0d-ab96-e30ab9f2c69b" name="Default Changelist" comment="" />
+      <created>1617802688144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617802688144</updated>
+      <workItem from="1617802689837" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

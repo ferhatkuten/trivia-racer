@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "725020001811",
+    "firebase_url": "https://trivia-racer-default-rtdb.firebaseio.com",
+    "project_id": "trivia-racer",
+    "storage_bucket": "trivia-racer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725020001811:android:4ff5410c35b8d835ca21e6",
+        "android_client_info": {
+          "package_name": "com.potensas.triviaracer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725020001811-gmdcpuqp4r8tjsnpl4sk65m857m2qg1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVBk430d57rTFyq3xEx2aY4a0KPIxZFZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725020001811-gmdcpuqp4r8tjsnpl4sk65m857m2qg1e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "725020001811-tfcip5fhml3ajaed7jseplocs34bbthn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.potensas.triviaracer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
